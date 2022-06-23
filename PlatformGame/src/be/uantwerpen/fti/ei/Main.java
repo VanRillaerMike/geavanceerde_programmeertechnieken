@@ -1,4 +1,4 @@
-package be.uantwerpen.fti.ei.backend;
+package be.uantwerpen.fti.ei;
 
 public class Main {
 

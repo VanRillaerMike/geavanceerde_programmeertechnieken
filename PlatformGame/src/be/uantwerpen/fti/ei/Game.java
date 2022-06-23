@@ -1,14 +1,10 @@
-package be.uantwerpen.fti.ei.backend;
+package be.uantwerpen.fti.ei;
 
 import be.uantwerpen.fti.ei.backend.enemyfactory.Enemy;
-import be.uantwerpen.fti.ei.backend.enemyfactory.EnemyFactory;
-import be.uantwerpen.fti.ei.backend.enemyfactory.MediumEnemy;
-import be.uantwerpen.fti.ei.backend.enemyfactory.NormalEnemy;
 import be.uantwerpen.fti.ei.backend.factory.AbstractFactory;
 import be.uantwerpen.fti.ei.backend.factory.FactoryProvider;
 
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class Game {
 
